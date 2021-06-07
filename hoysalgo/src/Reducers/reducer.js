@@ -1,5 +1,5 @@
 import estadoInicial from "../estadoInicial";
-
+//Fede porfavor cambia este switch a constante.
 function reducer(state = estadoInicial,action)
 {   
     
