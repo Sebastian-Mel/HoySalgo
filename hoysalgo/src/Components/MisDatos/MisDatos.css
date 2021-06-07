@@ -1,0 +1,50 @@
+.contenedor
+{
+    margin-top: -5%;    
+}
+
+.nuevoNegocio{
+    color:#7e7e7e;
+    max-width:90%;
+    margin-top: 25px ;
+    margin:0 auto;	
+    background:#282323;
+    box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+    border-radius: 25px;
+}
+.titulo{
+    color:#282323
+}
+.btnGuardar{
+    width:70%;
+	color:#282323;
+    display:block;
+    border:none;
+	padding:15px 20px;
+	border-radius:25px;
+    background:rgba(255,255,255,.1);
+    background:#F68235;
+    margin:0 auto;
+    margin-top: 10px;
+    font-weight: bold;  
+}
+
+h2{
+    color: black;
+}
+
+input:disabled
+{
+    background:#991109;
+}
+
+.previewIMG
+{   
+    max-width: 100%;    
+}
+
+.tituloMisDatos
+{
+    color: #F68235; 
+    margin-top:50px ;
+}

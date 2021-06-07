@@ -1,0 +1,10 @@
+.logoNB{ 
+    width: 25vh;
+    padding: 20px;
+  }
+
+  .blackOpacityNB
+  {  
+    background-color: #282323;
+    border-radius: 20px;
+  }

@@ -1,0 +1,25 @@
+.reservas{
+    padding: 0 0; 
+}
+
+.mibtn
+{
+    margin-top: 10px;
+    display: block;
+    width: 200px;
+}
+
+.align-middle
+{
+    text-align: center;
+}
+
+.coment
+{
+    width: 25%;
+}
+
+.negocio
+{
+    width: 10%;
+}

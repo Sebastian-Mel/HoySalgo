@@ -1,0 +1,10 @@
+.navbar-custom {
+    background-color: #282323;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: rgba(255,255,255,.8);
+}
+.linkLogo{
+    margin-left:10%
+}

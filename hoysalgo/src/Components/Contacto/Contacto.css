@@ -1,0 +1,54 @@
+.contenedor
+{
+    margin-top: -5%;
+    border-radius:10%;
+    text-align: center;
+}
+.tituloContactanos{
+    color: #F68235; 
+    margin-top:50px ;
+}
+
+.contactanos{
+    max-width:90%;
+   
+    margin-top: 25px;
+    margin: 0 auto;
+    background:#282323;
+    box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+    border-radius:25px;
+    color:#7e7e7e;
+}
+.contactanos input{
+    text-align: center;
+}
+.contactanos h3{
+    color: #F68235; 
+}
+.contactanos textarea{
+    text-align: center;
+    height: 50%;
+}
+.form-control{
+    border-radius:25px;
+}
+.btnEnviar{
+    width:70%;
+	color:#282323;
+    display:block;
+    border:none;
+	padding:15px 20px;
+	border-radius:25px;
+    background:rgba(255,255,255,.1);
+    background:#F68235;
+    margin:0 auto;
+    margin-top: 10px;
+    font-weight: bold;
+    white-space: normal;
+}
+
+.elContacto
+{
+    text-align:center;
+    margin-bottom: 20px;
+}

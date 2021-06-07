@@ -1,0 +1,29 @@
+#iframe
+{
+    height: 1000px;
+}
+
+.avisos
+{
+    max-width: 90%;
+    text-align: center;
+}
+
+.centrarText
+{
+    text-align: center;
+}
+@media (max-width: 1400px) {
+    .descripcion {
+        font-size: 150%;;
+    }
+}
+@media (max-width: 600px) {
+    .descripcion {
+        font-size: 100%;;
+    }
+}
+
+.descripcion{
+    
+}

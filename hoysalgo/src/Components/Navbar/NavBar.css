@@ -1,0 +1,27 @@
+.navbar-custom
+{
+    background-color: #282323;
+    -webkit-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
+    padding-right:5%;
+}
+.site-section{
+    margin-top: 5px;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text
+{
+    color: rgba(255,255,255,.8);
+}
+a{
+    cursor: pointer;
+}
+.linkLogo
+{
+    margin-left:13%
+}
+
+.EstiloLogo
+{
+    max-width: 150px;
+}

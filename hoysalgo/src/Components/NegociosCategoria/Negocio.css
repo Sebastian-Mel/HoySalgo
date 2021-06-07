@@ -1,0 +1,31 @@
+.cardStyle
+{
+    max-width: 95%;
+    margin:0 auto;
+    cursor: pointer; 
+    
+}
+.cardStyle img{
+    width: 100%;
+    height: 30vw;
+    object-fit:cover;
+}
+
+.property-entry .favorite
+{
+    background-color: red;
+}
+
+
+.offer-type
+{
+    border-radius: 5px;
+}
+
+.site-section_ {
+    padding: 2em 0;
+}
+.losNegocios
+{
+    min-height: 750px;
+}

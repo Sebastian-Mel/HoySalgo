@@ -1,0 +1,28 @@
+.miPreLoader
+{    
+    background-color: #282323;
+}
+
+
+.overlay_ {
+position: fixed;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+background: rgba(28,23,23,.7);
+}
+
+.overlay__wrapper_ {
+width: 100%;
+height: 100%;
+position: relative;
+}
+
+
+.overlay__spinner_ {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+}

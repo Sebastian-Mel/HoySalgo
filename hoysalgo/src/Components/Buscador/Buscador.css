@@ -1,0 +1,26 @@
+.btnStyle
+{
+    margin-top:20px;    
+}
+
+.rowStyle
+{
+    background-color:#282323 ;
+    margin:0 auto;
+    max-width: 90%;
+}
+.custom{border-radius: 10px;}
+.btnBuscar{
+    width:30%;
+    min-width: 250px;
+	color:#282323;
+    display:block;
+    border:none;
+	padding:15px 20px;
+	border-radius:25px;
+    background:rgba(255,255,255,.1);
+    background:#F68235;
+    margin:0 auto;
+    margin-top: 30px;
+    font-weight: bold;    
+}
